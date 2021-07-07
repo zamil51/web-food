@@ -1,0 +1,181 @@
+body{
+    font-family: 'Krona One', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.sec-flex{
+    padding: 20px;
+    display: flex;
+}  
+.top-sec{
+    padding: 0;
+}
+h1{font-family: 'Shadows Into Light', cursive;
+    font-weight: 700;
+    font-size: 100px;
+    color: rgb(122, 26, 47);
+}
+
+.top-img{
+   
+    float: left;
+    width: 20%;  
+}
+.half-place{
+    width: 50%;
+}
+
+.upper-text{
+    width:50%;
+    float: left;
+    padding-top: 70px;
+}
+h2 .skip-color{
+color: red;
+    
+}
+.upper-img{
+    width: 50%;
+}
+.upper-img img{
+    width: 90%;
+}
+.order-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red);
+    border-radius: 7px;
+    padding: 10px 30px;
+    font-weight: 800;
+}
+.first-part{
+    padding-bottom: 100px;
+}
+.about-part{
+    width: 50%;
+}
+.about-us{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.about-part img{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+.writing-content{
+    padding-top: 150px;
+    padding-right: 150px;
+}
+
+.contact-button{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red);
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-weight: 800;
+
+}
+.about-part p{
+    padding-bottom: 100px;
+}
+.recipi-bar{
+    padding-bottom: 100px;
+}
+.recipi-text{
+    text-align: center;
+}
+.recipi-text p{
+    padding: 0 200px;
+}
+.recipi-box{
+    display: flex;
+    padding: 0px -16px;
+    padding-top: 40px;
+}
+.cake-box{
+    width: 300px;
+    border: 20px solid white(240, 232, 232);
+    border-radius: 20px;
+    box-shadow: 5px 7px 35px;  
+}
+.pijja-box{
+    border: 20px solid white(240, 232, 232);
+    border-radius: 20px;
+    box-shadow: 5px 7px 35px; 
+    margin: 0px 40px;
+    width: 300px;
+}
+.berger-box{ 
+    border: 20px solid white(240, 232, 232);
+    border-radius: 20px;
+    box-shadow: 5px 7px 35px;
+    margin-left: 180px;
+    width: 300px;
+}
+img.round-corner{
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.title-text{
+    padding-left: 20px;
+}
+.cake-box img{
+    padding-left: 20px;
+    padding-top: 20px;
+    border-top: 20px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(27, 24, 24);
+    display: flex;
+    padding-left: 50px;
+}
+
+
+footer small{
+    color: white;
+    
+}
+.footer-sec{
+    color: rgb(230, 93, 15);
+
+}
+.footer-sec span{
+    color: tomato;
+}
+.footer-content{
+    padding: 30px 0px;
+    padding-left: 70px;
+}
+.address-futter{
+    width: 40%;
+    float: left;
+    padding-top: 20px;
+    
+}
+.address-futter h2{
+    color: brown;
+}
+.address-futter h3{
+    color: rgb(110, 73, 73);
+}
+h4{
+    color: rgb(71, 104, 112);
+}
+
+    
+    
+    
+
+
+    
+
+
+
+
+    
+
+
